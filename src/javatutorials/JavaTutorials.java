@@ -11,12 +11,13 @@ package javatutorials;
  */
 public class JavaTutorials {
 
+    
     /**
      * @param args the command line arguments
      */
-    public static void main(String[] args) {
+    public static void aa(String[] args) {
         // TODO code application logic here
-        System.out.println("a");
+      
     }
     
 }
